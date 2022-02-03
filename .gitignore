@@ -21,3 +21,8 @@ node_modules/
 *.log
 *.sql
 *.sqlite
+/bin/
+/Libs/
+/.settings/
+/.classpath
+.svn/
